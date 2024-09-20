@@ -2,6 +2,7 @@
 ~!@#$%^&*()_+
 * ~ Tilde
 * ! Exclamation point
+* @ "at sign"
 * <tag name> # Hashtag
 * $ Dollar sign
 * % Percentage sign
@@ -12,3 +13,9 @@
 * ) Close Parenthesis
 * _ Underscore
 * <tag name> + Plus sign
+# Links
+* [AtKlass](https://app.atklass.com/)
+* [Google](https://google.com/)
+* [George Brown College](https://georgebrown.ca/)
+* # Experiments
+* 😮 😊 😅 🇨🇦 🙏 😉
