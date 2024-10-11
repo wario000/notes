@@ -29,3 +29,5 @@
 * CTRL + Shift + V - (copy text as plain text)
 * CTRL + S - (save file) 
 * CTRL + Tab - (switch to next tab)
+
+* [CLI commands](docs/cli.md)
